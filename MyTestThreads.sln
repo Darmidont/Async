@@ -5,6 +5,10 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTestThreads", "MyTestThreads\MyTestThreads.csproj", "{914BE675-AE8E-454F-A963-F80B0AB5A802}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActionAsync", "ActionAsync\ActionAsync.csproj", "{74E18438-A891-40DE-B245-8C4419283A3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleAsyncTasks", "MultipleAsyncTasks\MultipleAsyncTasks.csproj", "{564A7359-D14F-4186-9958-A10CDACB3EBC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{914BE675-AE8E-454F-A963-F80B0AB5A802}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{914BE675-AE8E-454F-A963-F80B0AB5A802}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{914BE675-AE8E-454F-A963-F80B0AB5A802}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74E18438-A891-40DE-B245-8C4419283A3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74E18438-A891-40DE-B245-8C4419283A3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74E18438-A891-40DE-B245-8C4419283A3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74E18438-A891-40DE-B245-8C4419283A3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{564A7359-D14F-4186-9958-A10CDACB3EBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{564A7359-D14F-4186-9958-A10CDACB3EBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{564A7359-D14F-4186-9958-A10CDACB3EBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{564A7359-D14F-4186-9958-A10CDACB3EBC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
